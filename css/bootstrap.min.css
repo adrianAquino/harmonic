@@ -3493,7 +3493,7 @@ input[type=submit].btn-block {
 .dropdown-item {
     display: block;
     width: 100%;
-    padding: .25rem 1.5rem;
+    padding: .25rem 0.7rem;
     clear: both;
     font-weight: 400;
     color: #ebebeb;
